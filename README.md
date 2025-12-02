@@ -12,6 +12,7 @@
   -Identified conditions that encourage treatment uptake and improve employee well-being.
   
   <img width="860" height="490" alt="Image" src="https://github.com/user-attachments/assets/5bec0e9a-11f0-44c5-a5a3-861285e1ec4d" />
-<img width="858" height="428" alt="employer_support" src="https://github.com/user-attachments/assets/69ab1a1e-6e2f-4da6-86b3-feb0ba765b03" />
-<img width="860" height="410" alt="trend_overtime" src="https://github.com/user-attachments/assets/9417973e-c7b6-40b3-8bc8-d944f87a9d6d" />
-<img width="854" height="432" alt="Workplace_factors" src="https://github.com/user-attachments/assets/fb84f1c9-cb9e-4024-8012-9e384f0aecf9" />
+<img width="854" height="432" alt="Workplace_factors" src="https://github.com/user-attachments/assets/315345f7-b8e2-4c05-9bfe-cd33798f9f2f" />
+<img width="853" height="428" alt="stigma_perception" src="https://github.com/user-attachments/assets/38a986b2-d026-4411-bbf4-776176a712f1" />
+<img width="858" height="428" alt="employer_support" src="https://github.com/user-attachments/assets/a2d5ce83-fb7c-4fe4-a8a7-807b91f64327" />
+<img width="860" height="410" alt="trend_overtime" src="https://github.com/user-attachments/assets/819b6f6c-0455-4bd2-9833-5fa4e15c7350" />
